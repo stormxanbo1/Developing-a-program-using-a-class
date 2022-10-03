@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\bin\Debug\net6.0\DemoSplitFiles.exe
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\bin\Debug\net6.0\DemoSplitFiles.deps.json
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\bin\Debug\net6.0\DemoSplitFiles.runtimeconfig.json
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\bin\Debug\net6.0\DemoSplitFiles.dll
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\bin\Debug\net6.0\DemoSplitFiles.pdb
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.dll
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\refint\DemoSplitFiles.dll
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.pdb
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\DemoSplitFiles.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\⠀\DemoSplitFiles\DemoSplitFiles\obj\Debug\net6.0\ref\DemoSplitFiles.dll
